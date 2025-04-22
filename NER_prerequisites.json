@@ -1,0 +1,486 @@
+[
+  {
+    "prerequisite_text": "General computer literacy. Simple usage of GNU/Linux operating system (how to run terminal). Programming basics.",
+    "concepts": ["GNU", "Linux", "programming"]
+  },
+  {
+    "prerequisite_text": "Background: It will be assumed that the student has taken physics and mathematics (algebra, trigonometry and vector algebra) at the level of elementary school. Calculus is not assumed, some essential concepts will be developed as the course progresses (derivatives and integrals are used slowly at first, and routinely later on).",
+    "concepts": [
+      "physics",
+      "mathematics",
+      "algebra",
+      "trigonometry",
+      "vector algebra",
+      "derivatives",
+      "integrals"
+    ]
+  },
+  {
+    "prerequisite_text": "Mathematical knowledge, (logic, matrices, graphs, logarithms etc.)",
+    "concepts": ["logic", "matrices", "graphs", "logarithms"]
+  },
+  {
+    "prerequisite_text": "Can read and write in English; reading with comprehension. Can listen to and understand the lecture. Basic knowledge of Mathematics. Open mind and willingness to study. Creative thinking, open mind, systematic work. No recording of the lecture/classes is allowed.",
+    "concepts": ["English", "mathematics"]
+  },
+  {
+    "prerequisite_text": "knowledge of C programming language at least on the intermediate level - knowledge of English language at least on the intermediate level",
+    "concepts": ["C programming language", "English"]
+  },
+  {
+    "prerequisite_text": "Basic knowledge of algebra and calculus. For the computer lab, I require a very basic knowledge of c/c++. Note if you want to use your own favourite statistics environment (e.g., Excel, Statistica, etc. that is fine with me!)",
+    "concepts": ["algebra", "calculus", "c", "c++"]
+  },
+  {
+    "prerequisite_text": "Student must know: - Programming fundamentals - Microcontrollers",
+    "concepts": ["Programming", "Microcontrollers"]
+  },
+  {
+    "prerequisite_text": "The course has following requirements: * knowledge of Java programming language * basic knowledge of operating systems * basic knowledge of computer networks.",
+    "concepts": [
+      "Java programming language",
+      "operating systems",
+      "computer networks"
+    ]
+  },
+  {
+    "prerequisite_text": "In order to participate in the course, the student shall have basic knowledge of communication protocols (e.g. TCP/IP), cryptography (SSL/PKI), databases (SQL), operating systems and web applications.",
+    "concepts": [
+      "communication protocols",
+      "cryptography",
+      "databases",
+      "operating systems",
+      "web applications",
+      "TCP/IP",
+      "SSL",
+      "PKI",
+      "SQL"
+    ]
+  },
+  {
+    "prerequisite_text": "Basic knowledge of circuit theory and signal processing",
+    "concepts": ["circuit theory", "signal processing"]
+  },
+  {
+    "prerequisite_text": "Knowledge of methodologies of software analysis and design, programming skills",
+    "concepts": ["software analysis", "software design", "programming"]
+  },
+  {
+    "prerequisite_text": "Student must know: - Object-oriented programming",
+    "concepts": ["Object-oriented programming"]
+  },
+  {
+    "prerequisite_text": "The general knowledge of languages and programming process foreseen in the course plan and curriculum for a given semester. The basis of mathematics (logic, graphs)",
+    "concepts": ["programming", "programming languages", "mathematics", "logic", "graphs"]
+  },
+  {
+    "prerequisite_text": "Basic knowledge about imperative programming. Basic information about operating systems.",
+    "concepts": ["imperative programming", "operating systems"]
+  },
+  {
+    "prerequisite_text": "Knowledge of relational database systems and SQL.",
+    "concepts": ["relational database systems", "SQL"]
+  },
+  {
+    "prerequisite_text": "Elementary matrix algebra. Basic skills in C/C++  and JavaScript programming.",
+    "concepts": ["matrix algebra", "C", "C++", "JavaScript", "programming"]
+  },
+  {
+    "prerequisite_text": "Student needs to be acquainted with the work with Unix-based systems (e.g. Linux) as a user and with programming in C language,",
+    "concepts": ["Unix-based systems", "C language", "Linux"]
+  },
+  {
+    "prerequisite_text": "A basic course in general physics is necessary to understand the basis of the performed experiments. Analysis of the experimental data requires knowledge of calculus and elements of statistics.",
+    "concepts": ["physics", "calculus", "statistics"]
+  },
+  {
+    "prerequisite_text": "Advanced Calculus is not assumed, some essential concepts will be developed as the course progresses (partial derivatives and multiple integrals are used slowly at first, and routinely later on).",
+    "concepts": ["partial derivatives", "multiple integrals "]
+  },
+  {
+    "prerequisite_text": "Prerequisites and additional requirements not specified",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "Knowledge of mathematics at high school level.",
+    "concepts": ["mathematics"]
+  },
+  {
+    "prerequisite_text": "High school level mathematics.",
+    "concepts": ["mathematics"]
+  },
+  {
+    "prerequisite_text": "Knowledge of mathematics (number systems, combinatorics, logarithms, etc.)",
+    "concepts": ["mathematics", "number systems", "combinatorics", "logarithms"]
+  },
+  {
+    "prerequisite_text": "Differential and integral calculus of functions of one variable.",
+    "concepts": ["Differential calculus", "integral calculus"]
+  },
+  {
+    "prerequisite_text": "Ability to program in C++ on any system.",
+    "concepts": ["C++ programming"]
+  },
+  {
+    "prerequisite_text": "Required knowledge of the basics of electrical engineering, electronics and logic.",
+    "concepts": ["electrical engineering", "electronics", "logic"]
+  },
+  {
+    "prerequisite_text": "Knowledge of mathematics (positional systems, combinatorics, logarithms, etc.) Basic knowledge of C programming.",
+    "concepts": [
+      "mathematics",
+      "positional systems",
+      "combinatorics",
+      "logarithms",
+      "C programming"
+    ]
+  },
+  {
+    "prerequisite_text": "Knowledge of mathematics in the area of: vector calculus, differential and integral calculus.",
+    "concepts": [
+      "mathematics",
+      "vector calculus",
+      "differential calculus",
+      "integral calculus"
+    ]
+  },
+  {
+    "prerequisite_text": "Elementary knowledge of English is required - to the extent that allows studying professional literature with understanding. Textbooks and auxiliary materials will be available mainly in English. In addition, elementary knowledge of discrete mathematics in the field of set algebra and relational algebra, as well as the basics of graph theory is required. Preparation for independent study of literature, analytical thinking skills, creativity in solving problems, independence, enthusiasm for work, perseverance and enthusiasm - positive thinking are needed. Systematic work aimed at full understanding of the material and durability of learning effects. I also ask for attendance at lectures and taking notes during the lecture. In case of ambiguities, doubts, misunderstanding of the content, you can and should ask questions. Activity, discussion, independent development and presentation of selected issues are welcome. The lecturer DOES NOT CONSENT to any form of electronic recording of the content of the presented lecture (audio or video).",
+    "concepts": [
+      "English",
+      "discrete mathematics",
+      "set algebra",
+      "relational algebra",
+      "graph theory"
+    ]
+  },
+  {
+    "prerequisite_text": "Knowledge of the subject 'Algorithms and Data Structures'; and 'Imperative Programming' is required",
+    "concepts": ["Algorithms", "Data Structures", "Imperative Programming"]
+  },
+  {
+    "prerequisite_text": "Knowledge of mathematical analysis: series, definite integral, double integral, integral with respect to any measure, differential calculus of functions of several variables, optimization of differentiable functions of several variables. Knowledge of linear algebra: basics of matrix calculus, solving systems of linear equations.",
+    "concepts": [
+      "mathematical analysis",
+      "series",
+      "definite integral",
+      "double integral",
+      "integral",
+      "differential calculus",
+      "differentiable functions",
+      "linear algebra",
+      "matrix calculus",
+      "linear equations"
+    ]
+  },
+  {
+    "prerequisite_text": "Knowledge of the applications of basic mathematical concepts in mechanics and electricity at the level of Physics I. Knowledge of probability theory at an elementary level.",
+    "concepts": [
+      "mechanics",
+      "electricity",
+      "probability theory"
+    ]
+  },
+  {
+    "prerequisite_text": "Mathematical analysis, algebra",
+    "concepts": ["Mathematical analysis", "algebra"]
+  },
+  {
+    "prerequisite_text": "Basic knowledge of C/C++.",
+    "concepts": ["C++", "C"]
+  },
+  {
+    "prerequisite_text": "Basic knowledge of the following subjects: introduction to computer science, algorithms and data structures, algebra, mathematical analysis, discrete mathematics and mathematical logic.",
+    "concepts": [
+      "computer science",
+      "algorithms",
+      "data structures",
+      "algebra",
+      "mathematical analysis",
+      "discrete mathematics",
+      "logic"
+    ]
+  },
+  {
+    "prerequisite_text": "General knowledge of programming languages provided in the study program, cursory knowledge of the compilation/translation process. Knowledge of basic concepts in mathematics and algorithms (logic, set theory, relations, computational complexity)",
+    "concepts": [
+      "programming languages",
+      "compilation process",
+      "translation process",
+      "mathematics",
+      "algorithms",
+      "logic",
+      "set theory",
+      "relations",
+      "computational complexity"
+    ]
+  },
+  {
+    "prerequisite_text": "Algebra",
+    "concepts": ["algebra"]
+  },
+  {
+    "prerequisite_text": "General knowledge of mathematics with emphasis on discrete mathematics. Basic knowledge of: logic, graph theory, methods of constructing algorithms.",
+    "concepts": [
+      "mathematics",
+      "discrete mathematics",
+      "logic",
+      "graph theory",
+      "algorithms"
+    ]
+  },
+  {
+    "prerequisite_text": "Ability to write and convert numbers in hexadecimal, binary and decimal form, knowledge of English",
+    "concepts": ["hexadecimal form", "binary form", "decimal form", "English"]
+  },
+  {
+    "prerequisite_text": "Knowledge of the principles of construction and operation of digital systems. Proficiency in performing operations in various number systems, primarily: binary, decimal and hexadecimal. Ability to use the C language.",
+    "concepts": ["digital systems", "C language", "number systems"]
+  },
+  {
+    "prerequisite_text": "Adequate to the subject of the engineering project. Ability to program in a programming language appropriate to the subject of the engineering project. Additionally, it is required to pass the subject Design Studio 1 with the same subject of the engineering project.",
+    "concepts": ["programming language"]
+  },
+  {
+    "prerequisite_text": "Basic knowledge of C/C++ programming, basic knowledge of microprocessor technology and concurrency issues",
+    "concepts": [
+      "C++ programming",
+      "C programming",
+      "microprocessor",
+      "concurrency"
+    ]
+  },
+  {
+    "prerequisite_text": "Knowledge of programming paradigms and languages provided in the study program",
+    "concepts": ["programming paradigms", "programming languages"]
+  },
+  {
+    "prerequisite_text": "Knowledge of the basics of operating systems and network communications.",
+    "concepts": ["operating systems", "network communications"]
+  },
+  {
+    "prerequisite_text": "Lack",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "Knowledge of basic mathematics in the field of set algebra and relational algebra. Basic knowledge of logic. Knowledge of operating systems and basic use of computers. Knowledge of English at a level that allows studying industry literature",
+    "concepts": [
+      "mathematics",
+      "set algebra",
+      "relational algebra",
+      "logic",
+      "operating systems",
+      "English"
+    ]
+  },
+  {
+    "prerequisite_text": "The subject is an introduction to the subject of software testing.",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "Knowledge of the relational data model Knowledge of SQL basics",
+    "concepts": ["relational data model", "SQL"]
+  },
+  {
+    "prerequisite_text": "Students should have basic computer skills, including the basics of using graphical and text interfaces (shell).",
+    "concepts": ["computer", "shell", "text interfaces", "graphical interfaces"]
+  },
+  {
+    "prerequisite_text": "Basics of programming in any language. Knowledge of the basic functioning of the operating system, file system, computer network.",
+    "concepts": [
+      "programming",
+      "operating system",
+      "file system",
+      "computer network"
+    ]
+  },
+  {
+    "prerequisite_text": "1. Knowledge of Java basics (passing the Introduction to Programming course). 2. Knowledge of computer basics.",
+    "concepts": ["computer", "Java"]
+  },
+  {
+    "prerequisite_text": "1. Knowledge of basic mathematics in the field of logic and set algebra (high school material). 2. Basic computer skills.",
+    "concepts": ["computer", "logic", "set algebra"]
+  },
+  {
+    "prerequisite_text": "1. Knowledge of database basics. 2. Knowledge of object-oriented languages, e.g. Java.",
+    "concepts": ["database", "object-oriented languages"]
+  },
+  {
+    "prerequisite_text": "1. Knowledge of HTML/CSS/JS basics. 2. Knowledge of web application programming concepts.",
+    "concepts": ["HTML", "CSS", "JS", "web application", "programming"]
+  },
+  {
+    "prerequisite_text": "Knowledge of programming basics in any object-oriented language",
+    "concepts": ["programming", "object-oriented language"]
+  },
+  {
+    "prerequisite_text": "1. Participation in and completion of other classes during the studies. 2. Mastery of at least one technology taught during the studies at an intermediate level. 3. Knowledge of HTML/CSS basics.",
+    "concepts": ["HTML", "CSS"]
+  },
+  {
+    "prerequisite_text": "Basic knowledge of Internet technologies.",
+    "concepts": ["Internet"]
+  },
+  {
+    "prerequisite_text": "Basic knowledge of software development processes.",
+    "concepts": ["software development"]
+  },
+  {
+    "prerequisite_text": "Previous experience working with software development teams is desirable.",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "Basic computer skills.",
+    "concepts": ["computer"]
+  },
+  {
+    "prerequisite_text": "Basic knowledge of logic. Basic knowledge of using computer applications. Knowledge of English enabling the use of specialist literature.",
+    "concepts": ["computer", "logic", "English"]
+  },
+  {
+    "prerequisite_text": "Previous experience in managing IT projects, identifying recipients' (client and user) needs, market and competition analysis preferred.",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "no prerequisites",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "The participant should have basic knowledge of: - networks and network protocols (TCP/IP, DNS, etc.) - databases and SQL - web applications and HTTP protocol",
+    "concepts": [
+      "networks",
+      "network protocols",
+      "databases",
+      "SQL",
+      "web applications",
+      "HTTP protocol",
+      "TCP/IP",
+      "DNS"
+    ]
+  },
+  {
+    "prerequisite_text": "The course will discuss issues related to the protection of personal data (GDPR), submitting declarations of intent in electronic form, obligations related to the provision of services electronically and copyright protection of computer programs.",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "Basic computer skills.",
+    "concepts": ["computer"]
+  },
+  {
+    "prerequisite_text": "Basic computer skills on any operating system.",
+    "concepts": ["computer"]
+  },
+  {
+    "prerequisite_text": "Willingness to learn selected topics of linear algebra, polite behavior.",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "Knowledge of physics and mathematics at the advanced level of the secondary school leaving examination is required.",
+    "concepts": ["physics", "mathematics"]
+  },
+  {
+    "prerequisite_text": "The student should have knowledge of computer operation and technical issues related to the basic principles of network operation.",
+    "concepts": ["computer", "network"]
+  },
+  {
+    "prerequisite_text": "In order to start participating in the subject, you must: master mathematics (algebra and analysis) within the scope specified in the study program for the AiR major in semester 1; master physics within the scope covered in the Physics I subject (AiR major, semester 1).",
+    "concepts": ["mathematics", "algebra", "analysis", "physics"]
+  },
+  {
+    "prerequisite_text": "Knowledge of mathematics at upper secondary school level and differential and integral calculus.",
+    "concepts": ["differential calculus", "integral calculus", "mathematics"]
+  },
+  {
+    "prerequisite_text": "* basic computer skills * basic knowledge of Python * basic knowledge of C * intermediate knowledge of English",
+    "concepts": ["computer", "Python", "C", "English"]
+  },
+  {
+    "prerequisite_text": "Knowledge of mathematics (vector analysis, differential and integral calculus, complex numbers).",
+    "concepts": [
+      "differential calculus",
+      "integral calculus",
+      "complex numbers",
+      "mathematics",
+      "vector analysis"
+    ]
+  },
+  {
+    "prerequisite_text": "Basics of algebra and physics.",
+    "concepts": ["algebra", "physics"]
+  },
+  {
+    "prerequisite_text": "Basics of differential and integral calculus of functions of one real variable, ability to solve algebraic equations, systems of linear equations and eigenproblems (determining eigenvalues and eigenvectors).",
+    "concepts": [
+      "differential calculus",
+      "integral calculus",
+      "algebraic equations",
+      "linear equations",
+      "eigenproblems",
+      "eigenvalues",
+      "eigenvectors"
+    ]
+  },
+  {
+    "prerequisite_text": "The subject begins the first semester - hence no specific prerequisites are defined. There are possibilities of conducting classes and verifying learning outcomes using distance learning methods and techniques.",
+    "concepts": []
+  },
+  {
+    "prerequisite_text": "Basic ability to use technical documentation in English.",
+    "concepts": ["English"]
+  },
+  {
+    "prerequisite_text": "* Basics of digital electronics, * Knowledge of image processing algorithms - Vision Systems course, * Basic programming skills in a high-level language (C/C++, Python) ",
+    "concepts": ["digital electronics", "image processing", "programming"]
+  },
+  {
+    "prerequisite_text": "Knowledge of the basics of differential equations, especially linear finite-dimensional ones, and knowledge of matrix calculus. Knowledge of linear dynamic controlled finite-dimensional systems and their properties - as a reminder - this was in semester 5 (Control Theory 1 - TS1; it is best for the student to have a positive final grade (OK) in Control Theory 1). Report the lack of OK from TS1 to the TS2 instructor at the beginning of classes.",
+    "concepts": [
+      "differential equations",
+      "matrix calculus",
+      "linear dynamic controlled finite-dimensional systems"
+    ]
+  },
+  {
+    "prerequisite_text": "The physical laws describing the operation of a resistor, capacitor, and inductor; basics of Boolean algebra",
+    "concepts": ["resistor", "capacitor", "inductor", "Boolean algebra"]
+  },
+  {
+    "prerequisite_text": "Knowledge of physics, basics of automation and elementary information about mechanics and electronics.",
+    "concepts": ["physics", "automation", "mechanics", "electronics"]
+  },
+  {
+    "prerequisite_text": "Knowledge of the basics of automation and basics of differential equations, in particular linear finite-dimensional ones, and knowledge of matrix calculus.",
+    "concepts": ["automation", "differential equations", "matrix calculus", "linear finite-dimensional differential equations"]
+  },
+  {
+    "prerequisite_text": "Knowledge of basic algorithms and the ability to program in a high-level language",
+    "concepts": ["algorithms", "programming"]
+  },
+  {
+    "prerequisite_text": "Physical laws describing the operation of a resistor, capacitor and inductance, knowledge of the Laplace and Fourier transforms. Ability to solve linear differential equations.",
+    "concepts": [
+      "Physical laws",
+      "resistors",
+      "capacitor",
+      "inductance",
+      "Fourier transform",
+      "Laplace transform",
+      "linear differential equations"
+    ]
+  },
+  {
+    "prerequisite_text": "Knowledge of 'Automation Fundamentals' and 'Automation Equipment'",
+    "concepts": ["Automation"]
+  },
+  {
+    "prerequisite_text": "Knowledge of differential equations, Laplace transform, complex numbers and the MATLAB/SIMULINK environment.",
+    "concepts": [
+      "differential equations",
+      "Laplace transform",
+      "complex numbers",
+      "MATLAB",
+      "SIMULINK"
+    ]
+  }
+]
