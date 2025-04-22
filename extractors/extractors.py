@@ -3,6 +3,7 @@ from .YakeExtractor import YakeExtractor
 from .KeyBERTExtractor import KeyBERTExtractor
 from .RakeExtractor import RakeExtractor
 from .TextRankExtractor import TextRankExtractor
+from .KeyExtract import KeyExtractor
 
 
 extractors = {
@@ -11,4 +12,5 @@ extractors = {
     "Key BERT": KeyBERTExtractor(),
     "RAKE": RakeExtractor(),
     "TextRank": TextRankExtractor(),
+    "LLM Powered Approach": KeyExtractor(),
 }

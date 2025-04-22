@@ -72,7 +72,7 @@ def calculate_match_score(gt_phrases, extracted_phrases, threshold=0.8):
     f1_score = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0
     return precision, recall, f1_score
 
-def evaluate_concepts(extractor_name: str, evaluation_data, threshold=0.8):
+def evaluate_concepts(extractor_name: str, evaluation_data, threshold=0.8, display_results=True):
     """Evaluate the concept extraction results with F1@O."""
     overall_precision = []
     overall_recall = []
@@ -98,11 +98,6 @@ def evaluate_concepts(extractor_name: str, evaluation_data, threshold=0.8):
         overall_precision_at_O.append(precision_at_O)
         overall_recall_at_O.append(recall_at_O)
         overall_f1_at_O.append(f1_score_at_O)
-        
-        # print(f"GT Concepts: {gt_concepts}")
-        # print(f"Extracted Concepts: {extracted_concepts}")
-        # print(f"Precision: {precision:.2f}, Recall: {recall:.2f}, F1: {f1_score:.2f}")
-        # print(f"Precision@O: {precision_at_O:.2f}, Recall@O: {recall_at_O:.2f}, F1@O: {f1_score_at_O:.2f}\n")
 
     # Compute macro-averaged metrics
     avg_precision = sum(overall_precision) / len(overall_precision) if overall_precision else 0
@@ -112,12 +107,17 @@ def evaluate_concepts(extractor_name: str, evaluation_data, threshold=0.8):
     avg_recall_at_O = sum(overall_recall_at_O) / len(overall_recall_at_O) if overall_recall_at_O else 0
     avg_f1_score_at_O = sum(overall_f1_at_O) / len(overall_f1_at_O) if overall_f1_at_O else 0
     
-    if extractor_name != "":
-        print(f"### {extractor_name}")
-    print(f"Precision: {avg_precision:.2f}")
-    print(f"Recall: {avg_recall:.2f}")
-    print(f"F1 Score: {avg_f1_score:.2f}")
-    print(f"Precision@O: {avg_precision_at_O:.2f}")
-    print(f"Recall@O: {avg_recall_at_O:.2f}")
-    print(f"F1@O Score: {avg_f1_score_at_O:.2f}")
-    print("\n")
+    if display_results:
+        if extractor_name != "":
+            print(f"### {extractor_name}")
+        print(f"Precision: {avg_precision:.2f}")
+        print(f"Recall: {avg_recall:.2f}")
+        print(f"F1 Score: {avg_f1_score:.2f}")
+        print(f"Precision@O: {avg_precision_at_O:.2f}")
+        print(f"Recall@O: {avg_recall_at_O:.2f}")
+        print(f"F1@O Score: {avg_f1_score_at_O:.2f}")
+        print("\n")
+    return {
+        "f1": overall_f1,
+        "f1_at_O": overall_f1_at_O
+    }
